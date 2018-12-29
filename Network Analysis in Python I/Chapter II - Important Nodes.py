@@ -22,7 +22,7 @@ nx.degree_centrality(G)
 => Prints a dictionary with each nodes degree centrality
 Self loops are not considered
 """
-
+import networkx as nx
 
 # Get all the nodes with m neighbors
 def nodes_with_m_nbrs(G, m):

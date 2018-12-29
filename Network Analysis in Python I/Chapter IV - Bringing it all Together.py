@@ -31,6 +31,7 @@ Final Tasks
     Find largest communities of collaborators - Maximal Clique Concept
     Build a collaboration recommendation system - Open Triangles
 """
+import networkx as nx
 from nxviz import MatrixPlot
 import matplotlib.pyplot as plt
 
