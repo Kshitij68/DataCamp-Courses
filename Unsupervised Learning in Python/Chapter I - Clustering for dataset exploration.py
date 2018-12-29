@@ -14,4 +14,8 @@ Cluster labels for new samples
     New samples can be assigned to existing clusters
     K-Means remembers the mean of each cluster (the 'centroids')
     Finds the nearest centroid to each new sample
+
+How to evaluate the quality of clustering?
+-> Draw a confusion matrix (if labelled data is present)
+
 """
